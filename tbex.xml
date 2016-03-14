@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WebPlatform>
+  <Links>
+    <AddLink InDashboard="True" InLearn="True">
+      <Title>New to This Template?</Title>
+      <Description>Learn more about how this template works.</Description>
+      <Uri>http://go.microsoft.com/fwlink/?LinkId=248306</Uri>
+    </AddLink>
+
+    <AddLink InDashboard="True">
+      <Title>ASP.NET Web Pages Support Forums</Title>
+      <Description>If you've looked everywhere and still can't find an answer, try out the forums where experts can help you.</Description>
+      <Uri>http://forums.asp.net/1224.aspx/1?WebMatrix</Uri>
+    </AddLink>
+
+  </Links>
+</WebPlatform>

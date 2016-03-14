@@ -1,0 +1,4 @@
+﻿<MSDeploy.iisApp>
+    <iisapp path="Bakery" />
+    <setAcl path="Bakery/App_Data" setAclAccess="ReadAndExecute,Write" />
+</MSDeploy.iisApp>
